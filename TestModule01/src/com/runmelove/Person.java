@@ -6,4 +6,6 @@ package com.runmelove;
  * @since 2025/3/20 - 03 - 20 - 16:36
  */
 public class Person {
+    private int age;
+    private String name;
 }
